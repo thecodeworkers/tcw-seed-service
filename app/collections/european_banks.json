@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b3a"
+  },
+  "bankName": "Banco Santander",
+  "swift": "BSCHESMM",
+  "iban": "ES9121000418450200051332",
+  "country": "Espana"
+},{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b3b"
+  },
+  "bankName": "Millenium BCP",
+  "swift": "BCOMPTPL",
+  "iban": "PT50000201231234567890154",
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b3c"
+  },
+  "bankName": "Ubi Banca",
+  "swift": "BLOPIT22",
+  "iban": "none",
+  "country": "Italia"
+}]

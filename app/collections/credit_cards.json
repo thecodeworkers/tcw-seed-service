@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b40"
+  },
+  "entity": "Bank of America",
+  "cvcValidation": 3,
+  "numberValidation": 16,
+  "regex": "[0-9]?"
+},{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b41"
+  },
+  "entity": "Chase Bank",
+  "cvcValidation": 3,
+  "numberValidation": 16,
+  "regex": "[0-9]?"
+},{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b42"
+  },
+  "entity": "Citi Bank",
+  "cvcValidation": 3,
+  "numberValidation": 16,
+  "regex": "[0-9]?"
+}]

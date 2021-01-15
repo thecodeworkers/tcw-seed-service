@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b37"
+  },
+  "bankName": "Bank of America",
+  "routingNumber": "012345678",
+  "swift": "BOFAUS3N"
+},{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b38"
+  },
+  "bankName": "Chase Bank",
+  "routingNumber": "012345679",
+  "swift": "CHASUS33"
+},{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b39"
+  },
+  "bankName": "Citi Bank",
+  "routingNumber": "012345670",
+  "swift": "CITIUS33"
+}]

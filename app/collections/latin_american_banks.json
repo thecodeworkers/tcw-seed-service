@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b3d"
+  },
+  "bankName": "Banesco",
+  "swift": "UNIOVECA",
+  "country": "Venezuela"
+},{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b3e"
+  },
+  "bankName": "Mercantil",
+  "swift": "BAMRVECA",
+  "country": "Venezuela"
+},{
+  "_id": {
+    "$oid": "6001c8bbbd9924bb72104b3f"
+  },
+  "bankName": "Provincial",
+  "swift": "BPROVECA",
+  "country": "Venezuela"
+}]

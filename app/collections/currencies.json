@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6001cc77a25ac8967534ed8e"
+  },
+  "name": "Dolar",
+  "color": "#85bb65",
+  "gradients": [],
+  "active": true,
+  "type": "FIAT",
+  "symbol": "USD",
+  "price": 1
+},{
+  "_id": {
+    "$oid": "6001cc77a25ac8967534ed8f"
+  },
+  "name": "Bitcoin",
+  "color": "#ff8406",
+  "gradients": [],
+  "active": true,
+  "type": "CRYPTO",
+  "symbol": "BTC",
+  "price": 1
+},{
+  "_id": {
+    "$oid": "6001cc77a25ac8967534ed90"
+  },
+  "name": "Tether",
+  "color": "#85bb65",
+  "gradients": [],
+  "active": true,
+  "type": "CRYPTO",
+  "symbol": "USDT",
+  "price": 1
+},{
+  "_id": {
+    "$oid": "6001cc77a25ac8967534ed91"
+  },
+  "name": "Ethereum",
+  "color": "#393939",
+  "gradients": [],
+  "active": true,
+  "type": "CRYPTO",
+  "symbol": "ETH",
+  "price": 1
+},{
+  "_id": {
+    "$oid": "6001cc77a25ac8967534ed92"
+  },
+  "name": "Dash",
+  "color": "#1872a4",
+  "gradients": [],
+  "active": true,
+  "type": "CRYPTO",
+  "symbol": "DASH",
+  "price": 1
+}]
